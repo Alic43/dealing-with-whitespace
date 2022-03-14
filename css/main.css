@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   padding: 1rem;
-  font: crimson text;
+  font-family: Crimson Text;
   line-height: 1.3;
 }
 
@@ -10,9 +10,9 @@ html {
 }
 
 header {
-  margin-top: 1.5rem;
   margin-bottom: 1.5rem;
   border-bottom-style: ridge;
+  border-bottom-color: #555;
 }
 
 h1 {
@@ -39,4 +39,5 @@ ol {
 
 body {
   border-bottom-style: ridge;
+  border-bottom-color: #555;
 }
