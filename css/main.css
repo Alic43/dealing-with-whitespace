@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  margin: 1rem;
+  padding: 1rem;
   font: crimson text;
   line-height: 1.3;
 }
@@ -12,13 +12,27 @@ html {
 header {
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
+  border-bottom-style: ridge;
 }
 
 h1 {
   color: #222;
   font-size: 1.5rem;
+  margin-bottom: 0rem;
 }
 
 header p {
+  margin-top: 0rem;
   font-style: italic;
+}
+
+blockquote {
+  text-align: center;
+  font-weight: 100;
+  font-size: 1.125rem;
+  color: #999;
+}
+
+ol {
+  padding-left: -1rem;
 }
