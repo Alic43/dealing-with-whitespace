@@ -10,7 +10,7 @@ html {
 }
 
 article {
-
+ margin: auto;
 }
 
 article header {
@@ -31,10 +31,17 @@ article header p {
 }
 
 article p {
-
+ margin: auto;
 }
 
-blockquote .quote {
+.quote {
+  text-align: center;
+  font-weight: 100;
+  font-size: 1.125rem;
+  color: #999;
+}
+
+blockquote {
   text-align: center;
   font-weight: 100;
   font-size: 1.125rem;
@@ -46,7 +53,7 @@ article ol {
 }
 
 body {
-  margin: 1rem;
+  margin: 1em;
   border-bottom-style: ridge;
   border-bottom-color: #555;
 }
