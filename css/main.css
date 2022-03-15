@@ -1,6 +1,5 @@
 html {
   box-sizing: border-box;
-  padding-right: 1rem;
   font-family: "Crimson Text";
   line-height: 1.3;
 }
@@ -10,11 +9,11 @@ html {
 }
 
 article {
-  margin: auto;
+  margin: inherit;
 }
 
 article header {
-  margin-bottom: 1.5rem;
+  margin-bottom: 1rem;
   border-bottom-style: ridge;
   border-bottom-color: #999;
 }
@@ -32,7 +31,7 @@ article header p {
 
 article p {
   margin: auto;
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
 }
 
 .quote {
@@ -45,7 +44,7 @@ blockquote {
   text-align: left;
   font-weight: 100;
   font-size: 1.125rem;
-  color: #999;
+  color: #555;
 }
 
 article ol {
@@ -53,7 +52,7 @@ article ol {
 }
 
 body {
-  margin: 1.5rem;
+  margin: 2.5rem;
   border-bottom-style: ridge;
-  border-bottom-color: #555;
+  border-bottom-color: #999;
 }
