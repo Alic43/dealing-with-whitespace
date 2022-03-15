@@ -16,7 +16,7 @@ article {
 article header {
   margin-bottom: 1.5rem;
   border-bottom-style: ridge;
-  border-bottom-color: #555;
+  border-bottom-color: #999;
 }
 
 article h1 {
@@ -32,13 +32,13 @@ article header p {
 
 article p {
   margin: auto;
-  margin-bottom: 1em;
+  margin-bottom: 1rem;
 }
 
 .quote {
   text-align: center;
   font-size: 1.125rem;
-  color: #999;
+  color: #555;
 }
 
 blockquote {
@@ -53,7 +53,7 @@ article ol {
 }
 
 body {
-  margin: 1em;
+  margin: 1.125rem;
   border-bottom-style: ridge;
   border-bottom-color: #555;
 }
