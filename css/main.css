@@ -37,13 +37,14 @@ article p {
 
 .quote {
   text-align: center;
+  text
   font-weight: 100;
   font-size: 1.125rem;
   color: #999;
 }
 
 blockquote {
-  text-align: center;
+  text-align: left;
   font-weight: 100;
   font-size: 1.125rem;
   color: #999;
