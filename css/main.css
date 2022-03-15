@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  padding: -1rem;
   font-family: "Crimson Text";
   line-height: 1.3;
 }
@@ -9,11 +10,11 @@ html {
 }
 
 article {
-  margin: inherit;
+  margin: auto;
 }
 
 article header {
-  margin-bottom: 1rem;
+  margin-bottom: 1em;
   border-bottom-style: ridge;
   border-bottom-color: #999;
 }
@@ -25,7 +26,7 @@ article h1 {
 }
 
 article header p {
-  margin-bottom: 1em;
+  margin-bottom: 1.5rem;
   font-style: italic;
 }
 
