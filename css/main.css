@@ -14,7 +14,7 @@ article {
 }
 
 article header {
-  margin-bottom: 1.25rem;
+  margin-bottom: 1.5rem;
   border-bottom-style: ridge;
   border-bottom-color: #555;
 }
@@ -26,12 +26,13 @@ article h1 {
 }
 
 article header p {
-  margin-top: 0;
+  margin-bottom: 1em;
   font-style: italic;
 }
 
 article p {
   margin: auto;
+  margin-bottom: 1em;
 }
 
 .quote {
