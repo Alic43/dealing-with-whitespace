@@ -12,6 +12,7 @@ html {
 
 article {
   margin: -1rem;
+  margin-top: auto;
 }
 
 article header {
