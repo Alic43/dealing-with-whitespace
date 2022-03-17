@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  padding-left: 1rem;
   padding-right: 1rem;
   font-family: "Crimson Text";
   line-height: 1.3;
@@ -10,13 +11,14 @@ html {
 }
 
 article {
-  margin: auto;
+  margin: -1rem;
 }
 
 article header {
   margin-bottom: 1em;
-  border-bottom-style: ridge;
+  border-bottom-style: inset;
   border-bottom-color: #999;
+  border-bottom-width: thin;
 }
 
 article h1 {
@@ -28,6 +30,7 @@ article h1 {
 article header p {
   margin-bottom: 1.5rem;
   font-style: italic;
+  color: #555;
 }
 
 article p {
@@ -53,7 +56,8 @@ article ol {
 }
 
 body {
-  margin: 2.5rem;
+  margin: 1.25rem;
   border-bottom-style: ridge;
   border-bottom-color: #999;
+  border-bottom-width: thin;
 }
