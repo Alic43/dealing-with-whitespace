@@ -59,9 +59,8 @@ article ol {
 
 body {
   margin: 0;
-  border-bottom-style: ridge;
+  border-bottom-style: inset;
   border-bottom-color: #999;
   border-bottom-width: thin;
   width: auto;
-  margin-bottom: .5rem;
 }
