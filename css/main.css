@@ -33,6 +33,7 @@ article header p {
   margin-bottom: 1.5rem;
   font-style: italic;
   color: #555;
+  font-weight: lighter;
 }
 
 article p {
