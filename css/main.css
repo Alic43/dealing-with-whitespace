@@ -30,7 +30,7 @@ article h1 {
 }
 
 article header p {
-  margin-bottom: 1.25rem;
+  margin-bottom: 1.5rem;
   font-style: italic;
   color: #555;
 }
@@ -38,6 +38,7 @@ article header p {
 article p {
   margin: auto;
   margin-bottom: 1.5rem;
+  width: auto;
 }
 
 .quote {
