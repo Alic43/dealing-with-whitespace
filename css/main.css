@@ -33,13 +33,12 @@ article header p {
   margin-bottom: 1.5rem;
   font-style: italic;
   color: #555;
-  text-align: left;
 }
 
 article p {
   margin: auto;
   margin-bottom: 1.5rem;
-  text-align: center;
+  margin-right: 1.5rem;
 }
 
 .quote {
