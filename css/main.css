@@ -12,7 +12,7 @@ html {
 
 article {
   margin: .25rem;
-  margin-top: auto;
+  margin-top: inherit;
 }
 
 article header {
