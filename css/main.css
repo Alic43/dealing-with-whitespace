@@ -39,12 +39,17 @@ article header p {
 article p {
   margin: auto;
   margin-bottom: 1.5rem;
+  font-weight: lighter;
 }
 
 .quote {
   text-align: center;
   font-size: 1.125rem;
   color: #555;
+}
+
+article ol {
+  margin-left: -1.5rem;
 }
 
 blockquote {
