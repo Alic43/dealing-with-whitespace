@@ -54,10 +54,6 @@ blockquote {
   color: #555;
 }
 
-article ol {
-  margin-left: -1.5rem;
-}
-
 body {
   margin: 0;
   border-bottom-style: inset;
